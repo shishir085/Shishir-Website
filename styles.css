@@ -582,7 +582,7 @@ html{
 }
 .contacto .col img{
     width: 100%;
-    margin-top: 64px;
+    margin-top: 68px;
 
     
 }
@@ -676,7 +676,7 @@ footer .arriba{
     }
 
     .skills .fila{
-        display: block;
+        display: grid;
     }
     .skills .fila .col{
         width: 100%;
