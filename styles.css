@@ -26,7 +26,7 @@ html{
 }
 .contenedor-header header .logo a{
     font-family: 'Righteous';
-    font-size: 36px;
+    font-size: 32px;
     color: #1CB698;
     text-decoration: none;
 }
@@ -582,6 +582,9 @@ html{
 }
 .contacto .col img{
     width: 100%;
+    margin-top: 64px;
+
+    
 }
 .contacto .col .info{
     position: absolute;
